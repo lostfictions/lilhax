@@ -1,0 +1,25 @@
+{
+
+  project : {
+    name : 'luxe - test - draw',
+    version : '1.0.0',
+    author : 'luxeengine',
+
+    app : {
+      name : 'luxe_test_draw',
+      package : 'com.luxeengine.testdraw'
+    },
+
+    build : {
+      dependencies : {
+        luxe : '*',
+      }
+    },
+
+    files : {
+      assets : 'assets/'
+    }
+
+  }
+
+}
