@@ -3,11 +3,15 @@
 	[
 		{
 			"path": ".",
-			"folder_exclude_patterns": ["bin"],
+			"folder_exclude_patterns": [
+        "bin",
+        "node_modules"
+      ],
 			"file_exclude_patterns": [
 				"*.sublime-project",
 				".editorconfig",
-				".gitignore"
+				".gitignore",
+        ".jshintrc"
 			]
 		}
 	]

@@ -1,0 +1,22 @@
+{
+  // Enforcing:
+  "maxerr": 50,
+  "bitwise": true,
+  "camelcase": true,
+  "curly": true,
+  "eqeqeq": true,
+  "forin": true,
+  "freeze": true,
+  "immed": true,
+  "indent": 2,
+  "newcap": true,
+  "noarg": true,
+  "noempty": true,
+  "nonbsp": true,
+  "nonew": true,
+  "undef": true,
+  "unused": true,
+  "strict": true,
+  "devel": true,
+  "node": true
+}

@@ -1,2 +1,4 @@
 bin/
 *.sublime-workspace
+node_modules/
+

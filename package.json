@@ -1,0 +1,15 @@
+{
+  "name": "flow-watcher",
+  "version": "0.0.1",
+  "repository": "https://github.com/lostfictions/arcade-royale-frontend",
+  "description": "watch for haxe changes and rebuild/reload.",
+  "author": "@doam",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "chokidar": "^0.12.5",
+    "graceful-fs-extra": "^1.0.2",
+    "node-uuid": "^1.4.2"
+  }
+}
